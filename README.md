@@ -7,12 +7,19 @@
  - Para facilitar a execução deste programa, foi desenvolvida uma aplicação no Colab. Siga os passos abaixo para executar o chatbot:
 
 I-) Faça o download do arquivo "ativos.zip" presente nesse repositório.
+
 II-) Selecione o arquivo .ipnyb presente nesse repositório. 
+
 III-) Após entrar no arquivo, selecione  a opção "Open in Colab"
+
 IV-) Depois que você foi redirecionado ao site do colab, selecione a opção arquivos **(que possui o ícone de uma pasta)**
+
 V-) Logo após, carregue o arquivo "ativos.zip" clicando no ícone de upload de arquIvo da máquina.
+
 VI-) Em caso de aparecer uma aba de aviso, clique em "ok".
+
 VII-) com o upload completo, execute o código.
+
 VIII-) para ver os demais arquivos criado fique executando o atualizar.
 
 Obs - Como gerar as chaves da OpenAIAPI:
